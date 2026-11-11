@@ -1,2 +1,2 @@
 # proyectoDB24-Jurado
-Repositorio creado para realizar el TP4 
+Proyecto integrador de Base de Datos.
